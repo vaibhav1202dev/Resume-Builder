@@ -1,0 +1,46 @@
+.preview-button {
+  margin-top: 2rem;
+  background-color: rgb(29, 28, 28);
+  margin-left: 35rem;
+}
+
+.preview-container {
+  position: absolute;
+  margin-top: 5rem;
+  margin-left: 20rem;
+}
+
+.sections {
+  display: flex;
+  gap: 10rem;
+}
+
+.profile-imgs {
+  height: 10rem;
+  width: 10rem;
+  margin-top: 5rem;
+  border-radius: 50%;
+}
+
+.left-section {
+  background-color: bisque;
+  height: 40rem;
+  width: 20rem;
+}
+
+.inside-left {
+  margin-left: 5rem;
+  line-height: 3rem;
+}
+
+.right-section {
+  margin-top: 12rem;
+  font-size: 2rem;
+  line-height: 5rem;
+}
+
+.download-btn {
+  margin-left: 17rem;
+  background-color: black;
+  margin-bottom: 2rem;
+}

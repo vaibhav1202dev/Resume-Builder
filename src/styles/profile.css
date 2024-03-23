@@ -1,0 +1,46 @@
+.edit-icon {
+  margin-left: 65rem;
+  margin-top: -4rem;
+  font-size: 1.6rem;
+  color: rgb(80, 79, 79);
+}
+
+.details-section {
+  margin-left: 20rem;
+  margin-top: 2.3rem;
+}
+
+.contact-section {
+  margin-left: 45rem;
+  margin-top: -3rem;
+  font-size: 1.1rem;
+  line-height: 1rem;
+}
+
+.contact {
+  margin-top: 1.5rem;
+}
+.contact-1 {
+  margin-left: 2rem;
+}
+.social {
+  margin-left: 1rem;
+}
+
+.profile-name {
+  font-size: 1.8rem;
+  font-weight: 550;
+}
+
+.city {
+  font-size: 1.1rem;
+  line-height: 3rem;
+}
+
+.position {
+  font-size: 1.1rem;
+}
+
+.one-line {
+  font-size: 1.1rem;
+}

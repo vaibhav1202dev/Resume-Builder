@@ -1,0 +1,8 @@
+.close-exp {
+  margin-left: 25rem;
+  font-size: 2rem;
+}
+
+.close-exp:hover {
+  color: aquamarine;
+}
